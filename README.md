@@ -1,5 +1,5 @@
-# pequenos-programas-em-python
-Alguns dos códigos em python que fiz.
+# Python projects
+Alguns códigos em python que fiz.
 
 Códigos com propósitos diferentes estão distribuídos nas pastas.
 
