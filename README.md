@@ -5,7 +5,7 @@ Códigos com propósitos diferentes estão distribuídos nas pastas.
 
 # Pasta "dataScience"
 
-Contém alguns códigos .py e em notebooks do jupyter .ipynb relacionados com meu projeto de Iniciação Científica, que envolve webscraping de notícias de jornais online e análise e processamento de linguagem natural dos artigos.
+Contém alguns códigos .py e em notebooks do jupyter relacionados ao meu projeto de Iniciação Científica, que envolve webscraping de notícias de jornais online e análise e processamento de linguagem natural dos artigos.
 Alguns notebooks podem não funcionar, por dependerem da minha base de dados que se encontra em outro repositório privado, porém algumas saídas de células já se encontram neles, para visualização.
 
 # Pasta "ED1-Python"
